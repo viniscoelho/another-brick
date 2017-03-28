@@ -16,6 +16,9 @@
           Tel: (902) 580 9678
         </p>
         <div id="map-canvas"></div>
+        <script async defer
+          src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkVz8wCkq1TxfLhB8pORaUnZ-aI68lBVw&callback=initialize">
+        </script>
       </div>
     </div>
     <?php
