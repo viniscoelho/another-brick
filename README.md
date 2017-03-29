@@ -5,4 +5,4 @@ I used **PHP**, **Javascript** and **XHTML** to build it.
 
 ## Tests
 
-Please change the **base tag** before using it, otherwise it won't work properly.
+Please change the **base tag** (located at **common/header.php**) before using it, otherwise it won't work properly.
